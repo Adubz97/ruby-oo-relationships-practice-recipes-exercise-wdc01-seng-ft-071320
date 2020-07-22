@@ -40,10 +40,11 @@ class Recipe
     end
 
 # - `Recipe#allergens`
-# should return all of the `Ingredient`s in this recipe that are allergens 
-#for `User`s in our system.
+# should return all of the `Ingredient`s in this 
+#recipe that are allergens 
+
     def allergens
-    
+        
     end
 
     def add_ingredients(ingredient)
